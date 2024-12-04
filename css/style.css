@@ -119,9 +119,10 @@ body{
     color: rgba(224, 18, 149);
 }
 
-.info_uni{
-
-    padding-left: 60px;
+.info_carrera a {
+    color: rgb(238, 255, 0);
+    font-weight: 700;
+    text-decoration: none;
 }
 .info_carrera{
     padding-left: 60px;
